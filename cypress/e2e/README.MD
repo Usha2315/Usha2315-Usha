@@ -1,7 +1,7 @@
 ## Information on the tests - 
 2 test scripts created
 First test case with proper expected valid message and it will pass
-Second test case with icoorect expected message,so that the test will fail
+Second test case with incorrect expected message,so that the test will fail
 The result should show 1 pass and 1 fail
 
 ## Instructions to run the tests
