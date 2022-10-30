@@ -62,6 +62,6 @@ describe('Test Suite1', () => {
         .should('equal', 'Please fill in this field1.')
         cy.log('Contact us page - Errors validation')
         })   
-      })//it('Invalid test', () => {  
+      })//it('Invalid test',() => {  
   })//describe('Test1 - Contactus Page',() => {
 })//describe('Test Suite1', () => {
